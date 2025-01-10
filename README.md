@@ -27,6 +27,6 @@ perngkat dan paham akan besick nonroot dill.
  ## ⚠️WARING :
  Kalo penggun mau meyertakan script saya di dalam
  Module mohon sertakain creadit kalo tidak di sertakan
- creadit saya tidak bertanggunv jawab atas hal 
+ creadit saya tidak bertanggung jawab atas hal 
  script yang di pake pengguna dill
 
