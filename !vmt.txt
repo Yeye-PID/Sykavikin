@@ -1,4 +1,4 @@
-            [ Sykavikin- Nonroot ]
+            [ Sykaviking - Nonroot ]
                    Author 
      Telegram Yeye_nat | Github Yeye-PID
                 version : 1.0
