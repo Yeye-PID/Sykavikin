@@ -1,6 +1,6 @@
 ![coc 1](img/big.jpg)
 
-# ♨️ Sykavikin
+# ♨️ Sykaviking
 adalah shell scirpt yang saya bikin
 untuk mempercepat rendering And mengurangi
 pengguaan resoult CPU and RMA
@@ -20,7 +20,7 @@ pengguaan resoult CPU and RMA
 Orang itu harus sudah memahami modifikasi 
 perngkat dan paham akan besick nonroot dill.
 
-## PEMBUAT ❓️
+## Pembuat ❓️
 - Telegram : @Yeye_nat
 - Support  : https://t.me/shdow95
 
